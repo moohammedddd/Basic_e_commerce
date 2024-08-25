@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/moohammedddd/Basic_e_commerce/static/css/main.fc69b85c.css",
+    "main.js": "/moohammedddd/Basic_e_commerce/static/js/main.8033e4a8.js",
+    "static/js/453.be3f3b1d.chunk.js": "/moohammedddd/Basic_e_commerce/static/js/453.be3f3b1d.chunk.js",
+    "static/media/—Pngtree—e-letter logo ecommerce shop store_7265997.png": "/moohammedddd/Basic_e_commerce/static/media/—Pngtree—e-letter logo ecommerce shop store_7265997.d306cbd34506ebf0a49e.png",
+    "static/media/ecommerce.jpg": "/moohammedddd/Basic_e_commerce/static/media/ecommerce.fc66f0be3b142a140388.jpg",
+    "static/media/785054-ecommerce-istock-020119.jpg": "/moohammedddd/Basic_e_commerce/static/media/785054-ecommerce-istock-020119.46d3f5325bd805a440cd.jpg",
+    "static/media/logo.svg": "/moohammedddd/Basic_e_commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moohammedddd/Basic_e_commerce/index.html",
+    "main.fc69b85c.css.map": "/moohammedddd/Basic_e_commerce/static/css/main.fc69b85c.css.map",
+    "main.8033e4a8.js.map": "/moohammedddd/Basic_e_commerce/static/js/main.8033e4a8.js.map",
+    "453.be3f3b1d.chunk.js.map": "/moohammedddd/Basic_e_commerce/static/js/453.be3f3b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc69b85c.css",
+    "static/js/main.8033e4a8.js"
+  ]
+}
